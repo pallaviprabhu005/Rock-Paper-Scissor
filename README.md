@@ -7,4 +7,7 @@ Steps to run this project:
 ->The game will open in your browser and play the game
 
 
-<img width="1618" height="892" alt="Screenshot 2025-10-24 100427" src="https://github.com/user-attachments/assets/54ba9e74-9285-472b-9183-5d3b081b98f8" />
+
+
+<img width="1084" height="861" alt="Screenshot 2025-10-24 100548" src="https://github.com/user-attachments/assets/a7cd6c6c-9f97-4e91-a50b-8434ea7335e0" />
+
